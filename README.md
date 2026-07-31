@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Lucas  👋
 
-<!--
-**Sicleth/Sicleth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 I'm an aspiring Data Analyst from Brazil.
+📊 Passionate about turning raw data into clear insights through analysis and visualization.
+Currently transitioning into Data Analytics after several years managing my own business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib
+- **Databases:** SQLite
+- **Tools:** Jupyter Notebook, Excel, PowerPoint (python-pptx)
+- **Other:** Web Scraping, API Integration, Data Cleaning & Wrangling, Dashboard Design
+
+
+## Current Goals
+
+- Build real-world analytics projects
+- Improve SQL and Power BI
+- Land my first Data Analyst position 
+## Languages
+
+🇧🇷 Portuguese
+🇪🇸 Spanish
+🇺🇸 English
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/lucasdaka
+
+⭐️ *Thanks for visiting my profile!*
